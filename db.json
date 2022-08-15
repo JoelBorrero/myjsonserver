@@ -1,12 +1,12 @@
 {
-    "data": [
+    "users": [
         {
             "id": 1,
             "name": "Ignacio Prados",
             "email": "ignacio_prados@paikee.com",
             "role": "Alumno",
-            "countryName": "Argentina",
-            "countryFlag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
+            "country_name": "Argentina",
+            "country_flag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
             "age": 19,
             "languajes": [
                 "Español",
@@ -19,8 +19,8 @@
             "name": "Michael Lawson",
             "email": "michael.lawson@reqres.in",
             "role": "Alumno",
-            "countryName": "Estados Unidos",
-            "countryFlag": "https://img.icons8.com/emoji/20/united-states-emoji.png",
+            "country_name": "Estados Unidos",
+            "country_flag": "https://img.icons8.com/emoji/20/united-states-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -32,8 +32,8 @@
             "name": "Lindsay Ferguson",
             "email": "lindsay.ferguson@reqres.in",
             "role": "Alumno",
-            "countryName": "Países Bajos",
-            "countryFlag": "https://img.icons8.com/emoji/20/netherlands-emoji.png",
+            "country_name": "Países Bajos",
+            "country_flag": "https://img.icons8.com/emoji/20/netherlands-emoji.png",
             "age": 21,
             "languajes": [
                 "Holandés"
@@ -45,8 +45,8 @@
             "name": "Tobias Funke",
             "email": "tobias.funke@reqres.in",
             "role": "Alumno",
-            "countryName": "España",
-            "countryFlag": "https://img.icons8.com/emoji/20/spain-emoji.png",
+            "country_name": "España",
+            "country_flag": "https://img.icons8.com/emoji/20/spain-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -58,8 +58,8 @@
             "name": "Byron Fields",
             "email": "byron.fields@reqres.in",
             "role": "Profesor",
-            "countryName": "Canadá",
-            "countryFlag": "https://img.icons8.com/emoji/20/canada-emoji.png",
+            "country_name": "Canadá",
+            "country_flag": "https://img.icons8.com/emoji/20/canada-emoji.png",
             "age": 31,
             "languajes": [
                 "Inglés"
@@ -71,8 +71,8 @@
             "name": "George Edwards",
             "email": "george.edwards@reqres.in",
             "role": "Alumno",
-            "countryName": "Chile",
-            "countryFlag": "https://img.icons8.com/emoji/20/chile-emoji.png",
+            "country_name": "Chile",
+            "country_flag": "https://img.icons8.com/emoji/20/chile-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -84,13 +84,125 @@
             "name": "Rachel Howell",
             "email": "rachel.howell@reqres.in",
             "role": "Alumno",
-            "countryName": "Argentina",
-            "countryFlag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
+            "country_name": "Argentina",
+            "country_flag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
             ],
             "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ],
+    "chats": [
+        {
+            "id": 1,
+            "with": "Valentina Corrina",
+            "avatar": "https://reqres.in/img/faces/1-image.jpg",
+            "latest_message": "I don't know that issue you're having but I can help",
+            "when": "3:44 pm",
+            "unread": 3,
+            "answered": false,
+            "is_online": true
+        },
+        {
+            "id": 2,
+            "with": "Mateo Nica",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg",
+            "latest_message": "Why?",
+            "when": "9:00 am",
+            "unread": 0,
+            "answered": true,
+            "is_online": false
+        },
+        {
+            "id": 3,
+            "with": "Martina Garrea",
+            "avatar": "https://reqres.in/img/faces/3-image.jpg",
+            "latest_message": "Tomorrow morning",
+            "when": "Friday",
+            "unread": 0,
+            "answered": false,
+            "is_online": false
+        },
+        {
+            "id": 4,
+            "with": "Germán Mona",
+            "avatar": "https://reqres.in/img/faces/4-image.jpg",
+            "latest_message": "Will be there, thanks!",
+            "when": "3:44 pm",
+            "unread": 2,
+            "answered": false,
+            "is_online": true
+        },
+        {
+            "id": 5,
+            "with": "Marcos Polo",
+            "avatar": "https://reqres.in/img/faces/5-image.jpg",
+            "latest_message": "Hi!",
+            "when": "9:00 am",
+            "unread": 0,
+            "answered": true,
+            "is_online": true
+        },
+        {
+            "id": 6,
+            "with": "Irina Pérez",
+            "avatar": "https://reqres.in/img/faces/6-image.jpg",
+            "latest_message": "Thanks for your help",
+            "when": "Friday",
+            "unread": 0,
+            "answered": false,
+            "is_online": false
+        },
+        {
+            "id": 7,
+            "with": "Pedro Uli",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg",
+            "latest_message": "We know each other",
+            "when": "3:44 pm",
+            "unread": 1,
+            "answered": false,
+            "is_online": false
+        },
+        {
+            "id": 8,
+            "with": "Sol Micarena",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg",
+            "latest_message": "Thanks.",
+            "when": "9:00 am",
+            "unread": 0,
+            "answered": true,
+            "is_online": true
+        },
+        {
+            "id": 9,
+            "with": "Carmen Listas",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg",
+            "latest_message": "I do",
+            "when": "Friday",
+            "unread": 0,
+            "answered": false,
+            "is_online": true
+        },
+        {
+            "id": 10,
+            "with": "Elon Musk",
+            "avatar": "https://reqres.in/img/faces/10-image.jpg",
+            "latest_message": "I'll buy more DogeCoins",
+            "when": "9:00 am",
+            "unread": 0,
+            "answered": false,
+            "is_online": true
+        },
+        {
+            "id": 11,
+            "with": "Taya Smith",
+            "avatar": "https://reqres.in/img/faces/11-image.jpg",
+            "latest_message": "Yeah, I'll do it later",
+            "when": "3:44 pm",
+            "unread": 0,
+            "answered": true,
+            "is_online": true
         }
     ]
 }
