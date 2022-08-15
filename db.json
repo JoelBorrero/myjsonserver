@@ -5,10 +5,8 @@
             "name": "Ignacio Prados",
             "email": "ignacio_prados@paikee.com",
             "role": "Alumno",
-            "country": {
-                "name": "Argentina",
-                "flag": "https://img.icons8.com/emoji/20/argentina-emoji.png"
-            },
+            "countryName": "Argentina",
+            "countryFlag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
             "age": 19,
             "languajes": [
                 "Español",
@@ -21,10 +19,8 @@
             "name": "Michael Lawson",
             "email": "michael.lawson@reqres.in",
             "role": "Alumno",
-            "country": {
-                "name": "Estados Unidos",
-                "flag": "https://img.icons8.com/emoji/20/united-states-emoji.png"
-            },
+            "countryName": "Estados Unidos",
+            "countryFlag": "https://img.icons8.com/emoji/20/united-states-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -36,10 +32,8 @@
             "name": "Lindsay Ferguson",
             "email": "lindsay.ferguson@reqres.in",
             "role": "Alumno",
-            "country": {
-                "name": "Países Bajos",
-                "flag": "https://img.icons8.com/emoji/20/netherlands-emoji.png"
-            },
+            "countryName": "Países Bajos",
+            "countryFlag": "https://img.icons8.com/emoji/20/netherlands-emoji.png",
             "age": 21,
             "languajes": [
                 "Holandés"
@@ -51,10 +45,8 @@
             "name": "Tobias Funke",
             "email": "tobias.funke@reqres.in",
             "role": "Alumno",
-            "country": {
-                "name": "España",
-                "flag": "https://img.icons8.com/emoji/20/spain-emoji.png"
-            },
+            "countryName": "España",
+            "countryFlag": "https://img.icons8.com/emoji/20/spain-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -66,10 +58,8 @@
             "name": "Byron Fields",
             "email": "byron.fields@reqres.in",
             "role": "Profesor",
-            "country": {
-                "name": "Canadá",
-                "flag": "https://img.icons8.com/emoji/20/canada-emoji.png"
-            },
+            "countryName": "Canadá",
+            "countryFlag": "https://img.icons8.com/emoji/20/canada-emoji.png",
             "age": 31,
             "languajes": [
                 "Inglés"
@@ -81,10 +71,8 @@
             "name": "George Edwards",
             "email": "george.edwards@reqres.in",
             "role": "Alumno",
-            "country": {
-                "name": "Chile",
-                "flag": "https://img.icons8.com/emoji/20/chile-emoji.png"
-            },
+            "countryName": "Chile",
+            "countryFlag": "https://img.icons8.com/emoji/20/chile-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
@@ -96,10 +84,8 @@
             "name": "Rachel Howell",
             "email": "rachel.howell@reqres.in",
             "role": "Alumno",
-            "country": {
-                "name": "Argentina",
-                "flag": "https://img.icons8.com/emoji/20/argentina-emoji.png"
-            },
+            "countryName": "Argentina",
+            "countryFlag": "https://img.icons8.com/emoji/20/argentina-emoji.png",
             "age": 21,
             "languajes": [
                 "Español"
