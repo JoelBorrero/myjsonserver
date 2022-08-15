@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Ignacio Prados",
+            "email": "ignacio_prados@paikee.com",
+            "role": "Alumno",
+            "country": "Argentina",
+            "age": "19",
+            "languajes": [
+                "Español",
+                "Inglés"
+            ],
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Michael Lawson",
+            "email": "michael.lawson@reqres.in",
+            "role": "Alumno",
+            "country": "Estados Unidos",
+            "age": 21,
+            "languajes": [
+                "Español"
+            ],
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Lindsay Ferguson",
+            "email": "lindsay.ferguson@reqres.in",
+            "role": "Alumno",
+            "country": "Argentina",
+            "age": 21,
+            "languajes": [
+                "Español"
+            ],
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Tobias Funke",
+            "email": "tobias.funke@reqres.in",
+            "role": "Alumno",
+            "country": "España",
+            "age": 21,
+            "languajes": [
+                "Español"
+            ],
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Byron Fields",
+            "email": "byron.fields@reqres.in",
+            "role": "Profesor",
+            "country": "Canadá",
+            "age": 31,
+            "languajes": [
+                "Inglés"
+            ],
+            "avatar": "https://reqres.in/img/faces/10-image.jpg"
+        },
+        {
+            "id": 6,
+            "name": "George Edwards",
+            "email": "george.edwards@reqres.in",
+            "role": "Alumno",
+            "country": "Chile",
+            "age": 21,
+            "languajes": [
+                "Español"
+            ],
+            "avatar": "https://reqres.in/img/faces/11-image.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Rachel Howell",
+            "email": "rachel.howell@reqres.in",
+            "role": "Alumno",
+            "country": "Argentina",
+            "age": 21,
+            "languajes": [
+                "Español"
+            ],
+            "avatar": "https://reqres.in/img/faces/12-image.jpg"
+        }
+    ]
+}
